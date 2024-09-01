@@ -6,7 +6,7 @@ body, h1, h2, p {
 
 body {
     background-color: #f4f4f4;
-    color: #333;
+    color: #424242;
     line-height: 1.6;
     display: flex;
     flex-direction: column;
@@ -22,8 +22,8 @@ body {
 }
 
 .header {
-    background-color: #333;
-    color: #fff;
+    background-color:#7FFFD4;
+    color: #424242;
     padding: 20px 0;
     text-align: center;
     width: 100%;
@@ -62,8 +62,8 @@ img {
 }
 
 .footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #7FFFD4;
+    color: #424242;
     text-align: center;
     padding: 10px 0;
     width: 100%;
